@@ -1,0 +1,1 @@
+require(length, 'long'). require(style, 'mixed'). not_require(genre, 'industrial').
